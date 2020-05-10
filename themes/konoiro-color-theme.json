@@ -9,7 +9,7 @@
 			"name": "for comments.",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#9CCC65"
+				"foreground": "#AED581"
 			}
 		},
 		{
@@ -121,6 +121,13 @@
 			"scope": "meta.tag",
 			"settings": {
 				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "CSS - property names",
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#81D4FA"
 			}
 		},
 		{
