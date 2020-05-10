@@ -9,6 +9,7 @@
 		"list.activeSelectionBackground": "#3F51B5",
 		"list.hoverBackground": "#3F51B5",
 		"list.hoverForeground": "#FFFFFF",
+		"list.inactiveSelectionBackground": "#3F51B5",
 		"statusBar.background": "#3F51B5",
 		"statusBar.debuggingBackground": "#3F51B5",
 		"statusBar.noFolderBackground": "#3F51B5",
