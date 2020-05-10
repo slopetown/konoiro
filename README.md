@@ -6,5 +6,5 @@ git clone https://github.com/slopetown/konoiro.git ~/.vscode/extensions/slopetow
 ```
 or
 ```
-git clone https://github.com/slopetown/konoiro.git .vscode\extensions\slopetown.konoiro-0.0.1
+git clone https://github.com/slopetown/konoiro.git %USERPROFILE%\.vscode\extensions\slopetown.konoiro-0.0.1
 ```
