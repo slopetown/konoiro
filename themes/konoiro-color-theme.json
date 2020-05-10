@@ -1,0 +1,247 @@
+{
+	"name": "konoiro",
+	"type": "dark",
+	"colors": {
+		"editor.foreground": "#EEEEEE",
+	},
+	"tokenColors": [
+		{
+			"name": "for comments.",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#AED581"
+			}
+		},
+		{
+			"name": "constants which represent numbers.",
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#FFF59D"
+			}
+		},
+		{
+			"name": "constants (generally) provided by the language which are special like true, false, nil, YES, NO, etc.",
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "the name of a type declaration or class.",
+			"scope": "entity.name.type",
+			"settings": {
+				"foreground": "#4DB6AC"
+			}
+		},
+		{
+			"name": "a tag name. (HTML, XML, CSS, YAML, etc.)",
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "the name of an attribute (mainly in tags).",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#4DB6AC"
+			}
+		},
+		{
+			"name": "keywords (when these do not fall into the other groups).",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "the type of something, class, function, int, var, etc.",
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#4DB6AC"
+			}
+		},
+		{
+			"name": "a storage modifier like static, final, abstract, etc.",
+			"scope": "storage.modifier",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "quoted strings.",
+			"scope": "string.quoted",
+			"settings": {
+				"foreground": "#FFF59D"
+			}
+		},
+		{
+			"name": "things provided by a framework or library.",
+			"scope": "support",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "reserved language variables like this, super, self, etc.",
+			"scope": "variable.language",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "package names",
+			"scope": "storage.modifier.package",
+			"settings": {
+				"foreground": "#EEEEEE"
+			}
+		},
+		{
+			"name": "import names",
+			"scope": "storage.modifier.import",
+			"settings": {
+				"foreground": "#EEEEEE"
+			}
+		},
+		{
+			"name": "function names",
+			"scope": [
+				"meta.definition.function entity.name.function",
+				"meta.function entity.name.function",
+			],
+			"settings": {
+				"foreground": "#F48FB1"
+			}
+		},
+		{
+			"name": "method names",
+			"scope": [
+				"meta.definition.method entity.name.function",
+				"meta.method.identifier entity.name.function"
+			],
+			"settings": {
+				"foreground": "#F48FB1"
+			}
+		},
+		{
+			"name": "tags",
+			"scope": "meta.tag",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "CSS - property names",
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#4DB6AC"
+			}
+		},
+		{
+			"name": "Markdown - Thematic breaks",
+			"scope": "meta.separator.markdown",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "Markdown - ATX headings",
+			"scope": "markup.heading.markdown",
+			"settings": {
+				"foreground": "#F48FB1"
+			}
+		},
+		{
+			"name": "Markdown - Setext headings",
+			"scope": [
+				"markup.heading.setext.1.markdown",
+				"markup.heading.setext.2.markdown"
+			],
+			"settings": {
+				"foreground": "#F48FB1"
+			}
+		},
+		{
+			"name": "Markdown - Indented code blocks",
+			"scope": "markup.raw.block.markdown",
+			"settings": {
+				"foreground": "#4DB6AC"
+			}
+		},
+		{
+			"name": "Markdown - Fenced code blocks",
+			"scope": "punctuation.definition.markdown",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "Markdown - Link reference definitions",
+			"scope": [
+				"meta.link.reference.def.markdown",
+				"meta.link.reference.markdown"
+			],
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "Markdown - Block quotes",
+			"scope": "punctuation.definition.quote.begin.markdown",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "Markdown - List items",
+			"scope": "punctuation.definition.list.begin.markdown",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "Markdown - Code spans",
+			"scope": "markup.inline.raw.string.markdown",
+			"settings": {
+				"foreground": "#4DB6AC"
+			}
+		},
+		{
+			"name": "Markdown - Emphasis",
+			"scope": "markup.italic.markdown",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#FFF59D"
+			}
+		},
+		{
+			"name": "Markdown - Strong emphasis",
+			"scope": "markup.bold.markdown",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#FFF59D"
+			}
+		},
+		{
+			"name": "Markdown - Links",
+			"scope": "meta.link.inline.markdown",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "Markdown - Images",
+			"scope": "meta.image.inline.markdown",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "Markdown - Autolinks",
+			"scope": "markup.underline.link.markdown",
+			"settings": {
+				"foreground": "#42A5F5"
+			}
+		}
+	]
+}

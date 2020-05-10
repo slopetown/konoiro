@@ -1,0 +1,22 @@
+{
+    "name": "konoiro",
+    "displayName": "konoiro",
+    "description": "Color theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "slopetown",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "konoiro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/konoiro-color-theme.json"
+            }
+        ]
+    }
+}
