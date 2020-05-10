@@ -27,13 +27,6 @@
 			}
 		},
 		{
-			"name": "the name of a type declaration or class.",
-			"scope": "entity.name.type",
-			"settings": {
-				"foreground": "#4DB6AC"
-			}
-		},
-		{
 			"name": "a tag name. (HTML, XML, CSS, YAML, etc.)",
 			"scope": "entity.name.tag",
 			"settings": {
