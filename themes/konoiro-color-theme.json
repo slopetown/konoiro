@@ -8,6 +8,7 @@
 		"extensionBadge.remoteForeground": "#EF5350",
 		"list.activeSelectionBackground": "#EF5350",
 		"list.hoverBackground": "#EF5350",
+		"list.hoverForeground": "#FFFFFF",
 		"statusBar.background": "#EF5350",
 		"statusBar.debuggingBackground": "#EF5350",
 		"statusBar.noFolderBackground": "#EF5350",
