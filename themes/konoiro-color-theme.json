@@ -28,7 +28,7 @@
 			"name": "constants which represent numbers.",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#FFE082"
+				"foreground": "#FFECB3"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"name": "quoted strings.",
 			"scope": "string.quoted",
 			"settings": {
-				"foreground": "#FFE082"
+				"foreground": "#FFECB3"
 			}
 		},
 		{
@@ -216,7 +216,7 @@
 			"scope": "markup.italic.markdown",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFE082"
+				"foreground": "#FFECB3"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 			"scope": "markup.bold.markdown",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FFE082"
+				"foreground": "#FFECB3"
 			}
 		},
 		{
