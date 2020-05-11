@@ -2,14 +2,16 @@
 	"name": "konoiro",
 	"type": "dark",
 	"colors": {
+		"editor.foreground": "#EEEEEE",
+
 		"activityBarBadge.background": "#3F51B5",
 		"badge.background": "#3F51B5",
-		"editor.foreground": "#EEEEEE",
-		"extensionBadge.remoteForeground": "#3F51B5",
+		"extensionBadge.remoteBackground": "#3F51B5",
+
 		"list.activeSelectionBackground": "#3F51B5",
 		"list.hoverBackground": "#3F51B5",
 		"list.hoverForeground": "#FFFFFF",
-		"list.inactiveSelectionBackground": "#3F51B5",
+
 		"statusBar.background": "#3F51B5",
 		"statusBar.debuggingBackground": "#3F51B5",
 		"statusBar.noFolderBackground": "#3F51B5",
