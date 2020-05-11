@@ -47,7 +47,7 @@
 			"name": "the name of an attribute (mainly in tags).",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#009688"
+				"foreground": "#4DB6AC"
 			}
 		},
 		{
@@ -61,7 +61,7 @@
 			"name": "the type of something, class, function, int, var, etc.",
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#009688"
+				"foreground": "#4DB6AC"
 			}
 		},
 		{
@@ -168,7 +168,7 @@
 			"name": "Markdown - Indented code blocks",
 			"scope": "markup.raw.block.markdown",
 			"settings": {
-				"foreground": "#009688"
+				"foreground": "#4DB6AC"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 			"name": "Markdown - Code spans",
 			"scope": "markup.inline.raw.string.markdown",
 			"settings": {
-				"foreground": "#009688"
+				"foreground": "#4DB6AC"
 			}
 		},
 		{
