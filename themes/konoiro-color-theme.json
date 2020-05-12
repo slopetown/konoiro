@@ -109,26 +109,6 @@
 			}
 		},
 		{
-			"name": "function names",
-			"scope": [
-				"meta.definition.function entity.name.function",
-				"meta.function entity.name.function",
-			],
-			"settings": {
-				"foreground": "#F48FB1"
-			}
-		},
-		{
-			"name": "method names",
-			"scope": [
-				"meta.definition.method entity.name.function",
-				"meta.method.identifier entity.name.function"
-			],
-			"settings": {
-				"foreground": "#F48FB1"
-			}
-		},
-		{
 			"name": "tags",
 			"scope": "meta.tag",
 			"settings": {
