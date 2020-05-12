@@ -81,10 +81,24 @@
 			}
 		},
 		{
+			"name": "template strings.",
+			"scope": "string.template",
+			"settings": {
+				"foreground": "#FFECB3"
+			}
+		},
+		{
 			"name": "things provided by a framework or library.",
 			"scope": "support",
 			"settings": {
 				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "variables. Not all languages allow easy identification (and thus markup) of these.",
+			"scope": "variable",
+			"settings": {
+				"foreground": "#EEEEEE"
 			}
 		},
 		{
@@ -106,6 +120,13 @@
 			"scope": "storage.modifier.import",
 			"settings": {
 				"foreground": "#EEEEEE"
+			}
+		},
+		{
+			"name": "${ }",
+			"scope": "punctuation.definition.template-expression",
+			"settings": {
+				"foreground": "#42A5F5"
 			}
 		},
 		{
