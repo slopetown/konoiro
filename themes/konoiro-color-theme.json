@@ -2,7 +2,7 @@
 	"name": "konoiro",
 	"type": "dark",
 	"colors": {
-		"editor.foreground": "#EEEEEE",
+		"editor.foreground": "#E0E0E0",
 
 		"activityBarBadge.background": "#3F51B5",
 		"badge.background": "#3F51B5",
@@ -39,6 +39,13 @@
 			}
 		},
 		{
+			"name": "the name of a function.",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#81D4FA"
+			}
+		},
+		{
 			"name": "a tag name. (HTML, XML, CSS, YAML, etc.)",
 			"scope": "entity.name.tag",
 			"settings": {
@@ -57,6 +64,13 @@
 			"scope": "keyword",
 			"settings": {
 				"foreground": "#42A5F5"
+			}
+		},
+		{
+			"name": "mainly related to flow control like continue, while, return, etc.",
+			"scope": "keyword.control",
+			"settings": {
+				"foreground": "#F48FB1"
 			}
 		},
 		{
@@ -98,7 +112,7 @@
 			"name": "variables. Not all languages allow easy identification (and thus markup) of these.",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#EEEEEE"
+				"foreground": "#E0E0E0"
 			}
 		},
 		{
