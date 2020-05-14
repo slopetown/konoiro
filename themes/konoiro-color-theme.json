@@ -126,14 +126,14 @@
 			"name": "package names",
 			"scope": "storage.modifier.package",
 			"settings": {
-				"foreground": "#EEEEEE"
+				"foreground": "#E0E0E0"
 			}
 		},
 		{
 			"name": "import names",
 			"scope": "storage.modifier.import",
 			"settings": {
-				"foreground": "#EEEEEE"
+				"foreground": "#E0E0E0"
 			}
 		},
 		{
