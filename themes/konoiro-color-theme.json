@@ -9,7 +9,8 @@
 		"extensionBadge.remoteBackground": "#3F51B5",
 
 		"list.activeSelectionBackground": "#3F51B5",
-		"list.hoverBackground": "#3F51B5",
+		"list.focusBackground": "#3F51B5",
+		"list.hoverBackground": "#616161",
 		"list.hoverForeground": "#FFFFFF",
 
 		"statusBar.background": "#3F51B5",
