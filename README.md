@@ -8,6 +8,14 @@ or
 ```
 git clone https://github.com/slopetown/konoiro.git "%USERPROFILE%\.vscode\extensions\slopetown.konoiro-0.0.1"
 ```
+## Update
+```
+git -C ~/.vscode/extensions/slopetown.konoiro-0.0.1 pull
+```
+or
+```
+git -C "%USERPROFILE%\.vscode\extensions\slopetown.konoiro-0.0.1" pull
+```
 
 ## Uninstall
 ```
