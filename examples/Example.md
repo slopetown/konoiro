@@ -1,13 +1,10 @@
+# Example.md
+
 ## Thematic breaks
 
 ***
 ---
 ___
-
-************************************************************
-------------------------------------------------------------
-____________________________________________________________
-
 
 ## ATX headings
 
@@ -18,7 +15,6 @@ ____________________________________________________________
 ##### foo
 ###### foo
 
-
 ## Setext headings
 
 Foo *bar*
@@ -27,12 +23,10 @@ Foo *bar*
 Foo *bar*
 ---------
 
-
 ## Indented code blocks
 
     a simple
       indented code block
-
 
 ## Fenced code blocks
 
@@ -41,13 +35,11 @@ Foo *bar*
  >
 ```
 
-```python
-from nltk.metrics.distance import edit_distance
-
-def normalized_edit_distance(s1, s2):
-    return edit_distance(s1, s2) / max(len(s1), len(s2))
+```ruby
+def foo(x)
+  return 3
+end
 ```
-
 
 ## HTML blocks
 
@@ -59,13 +51,11 @@ _world_.
 </pre>
 </td></tr></table>
 
-
 ## Link reference definitions
 
 [foo]: /url "title"
 
 [foo]
-
 
 ## Paragraphs
 
@@ -73,9 +63,9 @@ aaa
 
 bbb
 
-
 ## Blank lines
 
+***
   
 
 aaa
@@ -84,14 +74,13 @@ aaa
 # aaa
 
   
-
+***
 
 ## Block quotes
 
 > # Foo
 > bar
 > baz
-
 
 ## List items
 
@@ -106,18 +95,15 @@ aaa
 
  two
 
-
 ## Lists
 
 - foo
 - bar
 + baz
 
-
 ## Backslash escapes
 
 \!\"\#\$\%\&\'\(\)\*\+\,\-\.\/\:\;\<\=\>\?\@\[\\\]\^\_\`\{\|\}\~
-
 
 ## Entity and numeric character references
 
@@ -125,18 +111,15 @@ aaa
 &frac34; &HilbertSpace; &DifferentialD;
 &ClockwiseContourIntegral; &ngE;
 
-
 ## Code spans
 
 `foo`
-
 
 ## Emphasis and strong emphasis
 
 *foo bar*
 
 **foo bar**
-
 
 ## Links
 
@@ -146,35 +129,28 @@ aaa
 
 [ref]: /uri
 
-
 ## Images
 
 ![foo](/url "title")
-
 
 ## Autolinks
 
 <http://foo.bar.baz>
 
-
 ## Raw HTML
 
-<a><bab><c2c></a>
-
+<bab><c2c>
 
 ## Hard line breaks
 
 foo  
 baz
 
-
 ## Soft line breaks
 
 foo
 baz
 
-
 ## Textual content
 
 hello $.;'there
-
