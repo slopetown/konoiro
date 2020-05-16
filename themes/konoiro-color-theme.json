@@ -169,7 +169,8 @@
 			"name": "Markdown - ATX headings",
 			"scope": "markup.heading.markdown",
 			"settings": {
-				"foreground": "#F48FB1"
+				"fontStyle": "bold",
+				"foreground": "#4DB6AC"
 			}
 		},
 		{
@@ -179,19 +180,23 @@
 				"markup.heading.setext.2.markdown"
 			],
 			"settings": {
-				"foreground": "#F48FB1"
+				"fontStyle": "bold",
+				"foreground": "#4DB6AC"
 			}
 		},
 		{
 			"name": "Markdown - Indented code blocks",
 			"scope": "markup.raw.block.markdown",
 			"settings": {
-				"foreground": "#4DB6AC"
+				"foreground": "#42A5F5"
 			}
 		},
 		{
 			"name": "Markdown - Fenced code blocks",
-			"scope": "punctuation.definition.markdown",
+			"scope": [
+				"punctuation.definition.markdown",
+				"fenced_code.block.language.markdown",
+			],
 			"settings": {
 				"foreground": "#42A5F5"
 			}
@@ -224,7 +229,7 @@
 			"name": "Markdown - Code spans",
 			"scope": "markup.inline.raw.string.markdown",
 			"settings": {
-				"foreground": "#4DB6AC"
+				"foreground": "#42A5F5"
 			}
 		},
 		{
@@ -232,7 +237,6 @@
 			"scope": "markup.italic.markdown",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFECB3"
 			}
 		},
 		{
@@ -240,7 +244,6 @@
 			"scope": "markup.bold.markdown",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FFECB3"
 			}
 		},
 		{
