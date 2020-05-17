@@ -262,7 +262,10 @@
 		},
 		{
 			"name": "Markdown - Autolinks",
-			"scope": "markup.underline.link.markdown",
+			"scope": [
+				"punctuation.definition.link.markdown",
+				"markup.underline.link.markdown",
+			],
 			"settings": {
 				"foreground": "#42A5F5"
 			}
