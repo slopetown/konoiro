@@ -10,12 +10,12 @@
 
 		"list.activeSelectionBackground": "#3F51B5",
 		"list.focusBackground": "#3F51B5",
-		"list.hoverBackground": "#616161",
+		"list.hoverBackground": "#424242",
 		"list.hoverForeground": "#FFFFFF",
 
 		"statusBar.background": "#3F51B5",
 		"statusBar.debuggingBackground": "#3F51B5",
-		"statusBar.noFolderBackground": "#3F51B5",
+		"statusBar.noFolderBackground": "#3F51B5"
 	},
 	"tokenColors": [
 		{
@@ -195,7 +195,7 @@
 			"name": "Markdown - Fenced code blocks",
 			"scope": [
 				"punctuation.definition.markdown",
-				"fenced_code.block.language.markdown",
+				"fenced_code.block.language.markdown"
 			],
 			"settings": {
 				"foreground": "#42A5F5"
@@ -236,14 +236,14 @@
 			"name": "Markdown - Emphasis",
 			"scope": "markup.italic.markdown",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "italic"
 			}
 		},
 		{
 			"name": "Markdown - Strong emphasis",
 			"scope": "markup.bold.markdown",
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "bold"
 			}
 		},
 		{
