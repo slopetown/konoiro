@@ -4,10 +4,6 @@
 	"colors": {
 		"editor.foreground": "#E0E0E0", // Gray 300
 
-		"activityBarBadge.background": "#EC407A", // Pink 400
-		"badge.background": "#EC407A", // Pink 400
-		"extensionBadge.remoteBackground": "#EC407A", // Pink 400
-
 		"list.activeSelectionBackground": "#3F51B5", // Indigo 500
 		"list.focusBackground": "#3F51B5", // Indigo 500
 		"list.focusForeground": "#FFFFFF", // White
