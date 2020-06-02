@@ -2,166 +2,159 @@
 	"name": "konoiro",
 	"type": "dark",
 	"colors": {
-		"editor.foreground": "#E0E0E0",
+		"editor.foreground": "#E0E0E0", // Gray 300
 
-		"activityBarBadge.background": "#3F51B5",
-		"badge.background": "#3F51B5",
-		"extensionBadge.remoteBackground": "#3F51B5",
+		"activityBarBadge.background": "#E91E63", // Pink 500
+		"badge.background": "#E91E63", // Pink 500
+		"extensionBadge.remoteBackground": "#E91E63", // Pink 500
 
-		"list.activeSelectionBackground": "#3F51B5",
-		"list.focusBackground": "#3F51B5",
-		"list.focusForeground": "#FFFFFF",
+		"list.activeSelectionBackground": "#3F51B5", // Indigo 500
+		"list.focusBackground": "#3F51B5", // Indigo 500
+		"list.focusForeground": "#FFFFFF", // White
 
-		"statusBar.background": "#3F51B5",
-		"statusBar.debuggingBackground": "#3F51B5",
-		"statusBar.noFolderBackground": "#3F51B5"
+		"statusBar.background": "#3F51B5", // Indigo 500
+		"statusBar.debuggingBackground": "#3F51B5", // Indigo 500
+		"statusBar.noFolderBackground": "#3F51B5" // Indigo 500
 	},
 	"tokenColors": [
 		{
 			"name": "for comments.",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#AED581"
+				"foreground": "#AED581" // Light Green 300
 			}
 		},
 		{
 			"name": "constants which represent numbers.",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#FFECB3"
+				"foreground": "#FFECB3" // Amber 100
 			}
 		},
 		{
 			"name": "constants (generally) provided by the language which are special like true, false, nil, YES, NO, etc.",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#42A5F5"
-			}
-		},
-		{
-			"name": "the name of a function.",
-			"scope": "entity.name.function",
-			"settings": {
-				"foreground": "#81D4FA"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "a tag name. (HTML, XML, CSS, YAML, etc.)",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "the name of an attribute (mainly in tags).",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#4DB6AC"
+				"foreground": "#4DB6AC" // Teal 300
 			}
 		},
 		{
 			"name": "keywords (when these do not fall into the other groups).",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "mainly related to flow control like continue, while, return, etc.",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#F48FB1"
+				"foreground": "#F06292" // Pink 300
 			}
 		},
 		{
 			"name": "the type of something, class, function, int, var, etc.",
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#4DB6AC"
+				"foreground": "#4DB6AC" // Teal 300
 			}
 		},
 		{
 			"name": "a storage modifier like static, final, abstract, etc.",
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "quoted strings.",
 			"scope": "string.quoted",
 			"settings": {
-				"foreground": "#FFECB3"
+				"foreground": "#FFECB3" // Amber 100
 			}
 		},
 		{
 			"name": "template strings.",
 			"scope": "string.template",
 			"settings": {
-				"foreground": "#FFECB3"
+				"foreground": "#FFECB3" // Amber 100
 			}
 		},
 		{
 			"name": "things provided by a framework or library.",
 			"scope": "support",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "variables. Not all languages allow easy identification (and thus markup) of these.",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#E0E0E0"
+				"foreground": "#E0E0E0" // Gray 300
 			}
 		},
 		{
 			"name": "reserved language variables like this, super, self, etc.",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "package names",
 			"scope": "storage.modifier.package",
 			"settings": {
-				"foreground": "#E0E0E0"
+				"foreground": "#E0E0E0" // Gray 300
 			}
 		},
 		{
 			"name": "import names",
 			"scope": "storage.modifier.import",
 			"settings": {
-				"foreground": "#E0E0E0"
+				"foreground": "#E0E0E0" // Gray 300
 			}
 		},
 		{
 			"name": "${ }",
 			"scope": "punctuation.definition.template-expression",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "tags",
 			"scope": "meta.tag",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "CSS - property names",
 			"scope": "support.type.property-name.css",
 			"settings": {
-				"foreground": "#81D4FA"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "Markdown - Thematic breaks",
 			"scope": "meta.separator.markdown",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
@@ -169,7 +162,7 @@
 			"scope": "markup.heading.markdown",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#4DB6AC"
+				"foreground": "#4DB6AC" // Teal 300
 			}
 		},
 		{
@@ -180,14 +173,14 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#4DB6AC"
+				"foreground": "#4DB6AC" // Teal 300
 			}
 		},
 		{
 			"name": "Markdown - Indented code blocks",
 			"scope": "markup.raw.block.markdown",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
@@ -197,7 +190,7 @@
 				"fenced_code.block.language.markdown"
 			],
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
@@ -207,28 +200,28 @@
 				"meta.link.reference.markdown"
 			],
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "Markdown - Block quotes",
 			"scope": "punctuation.definition.quote.begin.markdown",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "Markdown - List items",
 			"scope": "punctuation.definition.list.begin.markdown",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "Markdown - Code spans",
 			"scope": "markup.inline.raw.string.markdown",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
@@ -249,14 +242,14 @@
 			"name": "Markdown - Links",
 			"scope": "meta.link.inline.markdown",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
 			"name": "Markdown - Images",
 			"scope": "meta.image.inline.markdown",
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		},
 		{
@@ -266,7 +259,7 @@
 				"markup.underline.link.markdown",
 			],
 			"settings": {
-				"foreground": "#42A5F5"
+				"foreground": "#42A5F5" // Blue 400
 			}
 		}
 	]
