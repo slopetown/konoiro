@@ -161,7 +161,7 @@
 			"name": "Markdown - ATX headings",
 			"scope": "markup.heading.markdown",
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "bold underline",
 				"foreground": "#4DB6AC" // Teal 300
 			}
 		},
