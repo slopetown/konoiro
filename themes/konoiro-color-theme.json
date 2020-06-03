@@ -2,6 +2,11 @@
 	"name": "konoiro",
 	"type": "dark",
 	"colors": {
+		"focusBorder": "#536DFE", // Indigo A200
+
+		"activityBar.activeBorder": "#536DFE", // Indigo A200
+		"activityBar.foreground": "#536DFE", // Indigo A200
+		"activityBar.inactiveForeground": "#FFFFFF66", // White (opacity 40%)
 		"activityBarBadge.background": "#536DFE", // Indigo A200
 		"badge.background": "#536DFE", // Indigo A200
 		"editor.foreground": "#E0E0E0", // Gray 300
