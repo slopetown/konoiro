@@ -9,6 +9,9 @@
 		"list.activeSelectionBackground": "#536DFE", // Indigo A200
 		"list.focusBackground": "#536DFE", // Indigo A200
 		"list.focusForeground": "#FFFFFF", // White
+		"minimapSlider.activeBackground": "#FFFFFF33", // White (opacity 20%)
+		"minimapSlider.background": "#FFFFFF33", // White (opacity 20%)
+		"minimapSlider.hoverBackground": "#FFFFFF33", // White (opacity 20%)
 		"statusBar.background": "#536DFE", // Indigo A200
 		"statusBar.debuggingBackground": "#3F51B5", // Indigo A200
 		"statusBar.noFolderBackground": "#3F51B5" // Indigo A200
