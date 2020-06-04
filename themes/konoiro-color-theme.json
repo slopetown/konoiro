@@ -12,10 +12,10 @@
 		"badge.background": "#536DFECC", // Indigo A200 (opacity 80%)
 		"editor.foreground": "#E0E0E0", // Gray 300
 		"extensionBadge.remoteBackground": "#536DFECC", // Indigo A200 (opacity 80%)
-		"list.activeSelectionBackground": "#536DFECC", // Indigo A200 (opacity 80%)
-		"list.focusBackground": "#536DFECC", // Indigo A200 (opacity 80%)
+		"list.activeSelectionBackground": "#536DFE99", // Indigo A200 (opacity 60%)
+		"list.focusBackground": "#536DFE99", // Indigo A200 (opacity 60%)
 		"list.focusForeground": "#FFFFFF", // White
-		"list.hoverBackground": "#FFFFFF33", // White (opacity 20%)
+		"list.hoverBackground": "#536DFE33", // Indigo A200 (opacity 20%)
 		"minimapSlider.activeBackground": "#FFFFFF33", // White (opacity 20%)
 		"minimapSlider.background": "#FFFFFF33", // White (opacity 20%)
 		"minimapSlider.hoverBackground": "#FFFFFF33", // White (opacity 20%)
