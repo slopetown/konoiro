@@ -8,19 +8,20 @@
 		"activityBar.activeBorder": "#536DFE", // Indigo A200
 		"activityBar.foreground": "#536DFE", // Indigo A200
 		"activityBar.inactiveForeground": "#FFFFFF66", // White (opacity 40%)
-		"activityBarBadge.background": "#536DFE", // Indigo A200
-		"badge.background": "#536DFE", // Indigo A200
+		"activityBarBadge.background": "#536DFECC", // Indigo A200 (opacity 80%)
+		"badge.background": "#536DFECC", // Indigo A200 (opacity 80%)
 		"editor.foreground": "#E0E0E0", // Gray 300
-		"extensionBadge.remoteBackground": "#536DFE", // Indigo A200
-		"list.activeSelectionBackground": "#536DFE", // Indigo A200
-		"list.focusBackground": "#536DFE", // Indigo A200
+		"extensionBadge.remoteBackground": "#536DFECC", // Indigo A200 (opacity 80%)
+		"list.activeSelectionBackground": "#536DFECC", // Indigo A200 (opacity 80%)
+		"list.focusBackground": "#536DFECC", // Indigo A200 (opacity 80%)
 		"list.focusForeground": "#FFFFFF", // White
-		"minimapSlider.activeBackground": "#FFFFFF33", // White (opacity 20%)
-		"minimapSlider.background": "#FFFFFF33", // White (opacity 20%)
-		"minimapSlider.hoverBackground": "#FFFFFF33", // White (opacity 20%)
-		"statusBar.background": "#536DFE", // Indigo A200
-		"statusBar.debuggingBackground": "#3F51B5", // Indigo A200
-		"statusBar.noFolderBackground": "#3F51B5" // Indigo A200
+		"list.hoverBackground": "#536DFE33", // Indigo A200 (opacity 20%)
+		"minimapSlider.activeBackground": "#536DFE66", // Indigo A200 (opacity 40%)
+		"minimapSlider.background": "#536DFE66", // Indigo A200 (opacity 40%)
+		"minimapSlider.hoverBackground": "#536DFE66", // Indigo A200 (opacity 40%)
+		"statusBar.background": "#536DFECC", // Indigo A200 (opacity 80%)
+		"statusBar.debuggingBackground": "#536DFECC", // Indigo A200 (opacity 80%)
+		"statusBar.noFolderBackground": "#536DFECC", // Indigo A200 (opacity 80%)
 	},
 	"tokenColors": [
 		{
