@@ -19,9 +19,9 @@
 		"minimapSlider.activeBackground": "#FFFFFF33", // White (opacity 20%)
 		"minimapSlider.background": "#FFFFFF33", // White (opacity 20%)
 		"minimapSlider.hoverBackground": "#FFFFFF33", // White (opacity 20%)
-		"statusBar.background": "#536DFECC", // Indigo A200 (opacity 80%)
-		"statusBar.debuggingBackground": "#536DFECC", // Indigo A200 (opacity 80%)
-		"statusBar.noFolderBackground": "#536DFECC", // Indigo A200 (opacity 80%)
+		"statusBar.background": "#536DFE99", // Indigo A200 (opacity 60%)
+		"statusBar.debuggingBackground": "#536DFE99", // Indigo A200 (opacity 60%)
+		"statusBar.noFolderBackground": "#536DFE99", // Indigo A200 (opacity 60%)
 	},
 	"tokenColors": [
 		{
