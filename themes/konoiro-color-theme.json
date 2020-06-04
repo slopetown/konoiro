@@ -2,7 +2,7 @@
 	"name": "konoiro",
 	"type": "dark",
 	"colors": {
-		"focusBorder": "#536DFE", // Indigo A200
+		"focusBorder": "#536DFE99", // Indigo A200 (opacity 60%)
 
 		"activityBar.activeBackground": "#536DFE33", // Indigo A200 (opacity 20%)
 		"activityBar.activeBorder": "#536DFE", // Indigo A200
