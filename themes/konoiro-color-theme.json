@@ -7,7 +7,7 @@
 		"activityBar.activeBackground": "#536DFE33", // Indigo A200 (opacity 20%)
 		"activityBar.activeBorder": "#536DFE", // Indigo A200
 		"activityBar.foreground": "#536DFE", // Indigo A200
-		"activityBar.inactiveForeground": "#FFFFFF66", // White (opacity 40%)
+		"activityBar.inactiveForeground": "#536DFE", // Indigo A200
 		"activityBarBadge.background": "#536DFECC", // Indigo A200 (opacity 80%)
 		"badge.background": "#536DFECC", // Indigo A200 (opacity 80%)
 		"editor.foreground": "#E0E0E0", // Gray 300
