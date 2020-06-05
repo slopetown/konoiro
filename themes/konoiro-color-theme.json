@@ -4,8 +4,7 @@
 	"colors": {
 		"focusBorder": "#3F51B5", // Indigo 500
 
-		"activityBarBadge.background": "#3F51B5", // Indigo 500
-		"badge.background": "#3F51B5", // Indigo 500
+		"activityBarBadge.background": "#EC407A", // Pink 400
 		"editor.foreground": "#E0E0E0", // Gray 300
 		"list.activeSelectionBackground": "#3F51B5", // Indigo 500
 		"list.focusBackground": "#3F51B5", // Indigo 500
