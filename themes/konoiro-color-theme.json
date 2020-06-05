@@ -2,26 +2,21 @@
 	"name": "konoiro",
 	"type": "dark",
 	"colors": {
-		"focusBorder": "#536DFE99", // Indigo A200 (opacity 60%)
+		"focusBorder": "#3F51B5", // Indigo 500
 
-		"activityBar.activeBackground": "#536DFE33", // Indigo A200 (opacity 20%)
-		"activityBar.activeBorder": "#536DFE", // Indigo A200
-		"activityBar.foreground": "#536DFE", // Indigo A200
-		"activityBar.inactiveForeground": "#FFFFFF66", // White (opacity 40%)
-		"activityBarBadge.background": "#536DFE99", // Indigo A200 (opacity 60%)
-		"badge.background": "#536DFE99", // Indigo A200 (opacity 60%)
+		"activityBarBadge.background": "#3F51B5", // Indigo 500
+		"badge.background": "#3F51B5", // Indigo 500
 		"editor.foreground": "#E0E0E0", // Gray 300
-		"extensionBadge.remoteBackground": "#536DFE99", // Indigo A200 (opacity 60%)
-		"list.activeSelectionBackground": "#536DFE99", // Indigo A200 (opacity 60%)
-		"list.focusBackground": "#536DFE99", // Indigo A200 (opacity 60%)
+		"list.activeSelectionBackground": "#3F51B5", // Indigo 500
+		"list.focusBackground": "#3F51B5", // Indigo 500
 		"list.focusForeground": "#FFFFFF", // White
-		"list.hoverBackground": "#536DFE33", // Indigo A200 (opacity 20%)
+		"list.hoverBackground": "#3F51B533", // Indigo 500 (opacity 20%)
 		"minimapSlider.activeBackground": "#FFFFFF33", // White (opacity 20%)
 		"minimapSlider.background": "#FFFFFF33", // White (opacity 20%)
 		"minimapSlider.hoverBackground": "#FFFFFF33", // White (opacity 20%)
-		"statusBar.background": "#536DFE99", // Indigo A200 (opacity 60%)
-		"statusBar.debuggingBackground": "#536DFE99", // Indigo A200 (opacity 60%)
-		"statusBar.noFolderBackground": "#536DFE99", // Indigo A200 (opacity 60%)
+		"statusBar.background": "#3F51B5", // Indigo 500
+		"statusBar.debuggingBackground": "#3F51B5", // Indigo 500
+		"statusBar.noFolderBackground": "#3F51B5", // Indigo 500
 	},
 	"tokenColors": [
 		{
