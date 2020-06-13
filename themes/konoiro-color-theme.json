@@ -50,7 +50,7 @@
 			"name": "the name of a type declaration or class.",
 			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#4DB6AC" // Teal 300
+				"foreground": "#80DEEA" // Cyan 200
 			}
 		},
 		{
@@ -64,7 +64,7 @@
 			"name": "the superclass/baseclass name.",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"foreground": "#4DB6AC" // Teal 300
+				"foreground": "#80DEEA" // Cyan 200
 			}
 		},
 		{
