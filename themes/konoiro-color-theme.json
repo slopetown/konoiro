@@ -61,6 +61,13 @@
 			}
 		},
 		{
+			"name": "the superclass/baseclass name.",
+			"scope": "entity.other.inherited-class",
+			"settings": {
+				"foreground": "#4DB6AC" // Teal 300
+			}
+		},
+		{
 			"name": "keywords (when these do not fall into the other groups).",
 			"scope": "keyword",
 			"settings": {
